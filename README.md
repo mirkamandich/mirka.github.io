@@ -6,3 +6,7 @@ hello world
 
 local cat image
 ![cat](./image.png)
+
+
+Featured Research
+list of research things here or smth
